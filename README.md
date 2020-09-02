@@ -1,1 +1,3 @@
 # autoupdater
+
+Updates GMAD interactive
